@@ -1,0 +1,25 @@
+{
+  "name": "ethc",
+  "logoURI": "https://s3.ax1x.com/2020/12/28/rTHQaD.jpg",
+  "keywords": [
+      "defi",
+      "btct",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x6bd7a2df3462c84b721d3a8e5cd53a168a3edc6b",
+      "name": "btct",
+      "symbol": "btct",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2020/12/28/rTHQaD.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
